@@ -1,0 +1,17 @@
+html {
+  font-family: sans-serif;
+}
+
+body {
+  width: 100%;
+  padding: 0;
+  margin: 0 auto;
+  background: linear-gradient(
+    to top,
+    #3f4c6b,
+    #435275,
+    #485780,
+    #4c5d8a,
+    #516395
+  );
+}
